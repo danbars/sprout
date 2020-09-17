@@ -1,7 +1,7 @@
 # sprout
 > #### Start a new SaaS business and cut to the chase
 
-This is a practical guide how to get all the non-important but mandatory things out of the way as fast as possible, you can focus on your real business value.
+This is a practical guide how to get all the non-important but mandatory things out of the way as fast as possible, so you can focus on your real business value.
 The goals of this guide are to:
 * Be opinionated in choosing technologies and solutions so you don't have to invest too much time researching. 
 * Stack is biased to towards services that have free tier so you can start with close-to-zero expenses.

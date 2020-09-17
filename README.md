@@ -1,4 +1,4 @@
-# sprout
+# SPROUT
 > #### Start a new SaaS business and cut to the chase
 
 This is a practical guide how to get all the non-important but mandatory things out of the way as fast as possible, so you can focus on your real business value.
